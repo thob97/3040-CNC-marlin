@@ -1,0 +1,9 @@
+[submodule "submodule-mpcnc_post_processor"]
+	path = submodule-mpcnc_post_processor
+	url = https://github.com/thob97/submodule-mpcnc_post_processor.git
+[submodule "submodule-Marlin"]
+	path = submodule-Marlin
+	url = https://github.com/thob97/submodule-Marlin.git
+[submodule "submodule-BIGTREETECH-TouchScreenFirmware"]
+	path = submodule-BIGTREETECH-TouchScreenFirmware
+	url = https://github.com/thob97/submodule-BIGTREETECH-TouchScreenFirmware.git
