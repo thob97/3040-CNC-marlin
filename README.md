@@ -16,7 +16,7 @@ I build:
 - [Getting Started](#getting-started)
 - [Pictures](#pictures)
     - [CNC](#cnc)
-    - [Cut examples](#cut-example)
+    - [Cut examples](#cut-examples)
     - [3D files](#3d-files)
 - [Parts List](#parts-list)
 - [Related](#related)
@@ -88,8 +88,34 @@ Follow the instructions of each submodule in this repo. That is:
     <img src="./pictures/7_2.jpg"  width="30%" height="30%">
     <img src="./pictures/7_3.jpg"  width="30%" height="30%">
 </p>
+<p float="left">
+    <img src="./pictures/dog1.jpeg"  width="30%" height="25%">
+    <img src="./pictures/dog2.jpeg"  width="30%" height="25%">
+    <img src="./pictures/dog3.jpeg"  width="30%" height="25%">
+</p>
 
 ### 3D files
+<p float="left">
+    <img src="./pictures/3d_pics/1.PNG"  width="30%" height="25%">
+    <img src="./pictures/3d_pics/2.PNG"  width="30%" height="25%">
+    <img src="./pictures/3d_pics/3.PNG"  width="30%" height="25%">
+    <img src="./pictures/3d_pics/4.PNG"  width="30%" height="25%">
+    <img src="./pictures/3d_pics/5.PNG"  width="30%" height="25%">
+    <img src="./pictures/3d_pics/6.PNG"  width="30%" height="25%">
+    <img src="./pictures/3d_pics/7.PNG"  width="30%" height="25%">
+    <img src="./pictures/3d_pics/8.PNG"  width="30%" height="25%">
+    <img src="./pictures/3d_pics/9.PNG"  width="30%" height="25%">
+    <img src="./pictures/3d_pics/10.PNG"  width="30%" height="25%">
+    <img src="./pictures/3d_pics/11.PNG"  width="30%" height="25%">
+    <img src="./pictures/3d_pics/12.PNG"  width="30%" height="25%">
+    <img src="./pictures/3d_pics/13.PNG"  width="30%" height="25%">
+    <img src="./pictures/3d_pics/14.PNG"  width="30%" height="25%">
+    <img src="./pictures/3d_pics/15.PNG"  width="30%" height="25%">
+    <img src="./pictures/3d_pics/16.PNG"  width="30%" height="25%">
+    <img src="./pictures/3d_pics/17.PNG"  width="30%" height="25%">
+    <img src="./pictures/3d_pics/18.PNG"  width="30%" height="25%">
+</p>
+
 
 ## Parts List
 - Chinese 3040 CNC
