@@ -14,9 +14,13 @@ I build:
 ## Table Of Content
 
 - [Getting Started](#getting-started)
-- [CNC pictures](#cnc-pictures)
-- [Cut example pictures](#cut-example-pictures)
-- [3D files pictures](#3d-files-pictures)
+- [Pictures](#pictures)
+    - [CNC](#cnc)
+    - [Cut examples](#cut-example)
+    - [3D files](#3d-files)
+- [Parts List](#parts-list)
+- [Related](#related)
+- [See also](#see-also)
 - [Acknowledgments](#acknowledgments)
 
 ## Getting Started
@@ -27,7 +31,9 @@ Follow the instructions of each submodule in this repo. That is:
 * [submodule-mpcnc_post_processor](https://github.com/thob97/submodule-mpcnc_post_processor)
 * All the used 3d files can be found at the appropriate folder
 
-## CNC pictures
+## Pictures
+
+### CNC
 <p float="left">
     <img src="./pictures/0_1.jpeg"  width="30%" height="30%">
     <img src="./pictures/0_2.jpeg"  width="30%" height="30%">
@@ -62,7 +68,7 @@ Follow the instructions of each submodule in this repo. That is:
 </p>
 
 
-## Cut example pictures
+### Cut examples
 <p float="left">
     <img src="./pictures/4_1.jpeg"  width="30%" height="30%">
 </p>
@@ -83,7 +89,20 @@ Follow the instructions of each submodule in this repo. That is:
     <img src="./pictures/7_3.jpg"  width="30%" height="30%">
 </p>
 
-## 3D files pictures
+### 3D files
+
+## Parts List
+- Chinese 3040 CNC
+- [TMC2208 Motor Drivers](https://www.amazon.de/-/en/gp/product/B07THJFXQP/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- [SKR E3 DIP V1 32bit board & TFT35 V3.0 Screen](https://www.amazon.de/-/en/gp/product/B07ZKP1FB3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- [Spindel Controller](https://www.amazon.de/dp/B07Z94FZSQ?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+- [48V 300W Spindle](https://www.amazon.de/dp/B09N36KWRH?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+- [48V 480W Spindel & Motor Powersupply](https://www.amazon.de/-/en/gp/product/B084KYD2TL/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- [24V 120W Board & LCD Powersupply](https://www.amazon.de/-/en/gp/product/B01D8FM3W6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- [Endstops / Switches](https://de.aliexpress.com/item/32970156247.html?spm=a2g0o.order_detail.order_detail_item.3.453b6368wVEAgS&gatewayAdapt=glo2deu)
+
+## Related
+## See also
 
 ## Acknowledgments
 
