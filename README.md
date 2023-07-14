@@ -128,7 +128,16 @@ Follow the instructions of each submodule in this repo. That is:
 - [Endstops / Switches](https://de.aliexpress.com/item/32970156247.html?spm=a2g0o.order_detail.order_detail_item.3.453b6368wVEAgS&gatewayAdapt=glo2deu)
 
 ## Related
+* [3040 CNC Marlin](https://github.com/thob97/3040-CNC-marlin.git)
+* [CNC-BIGTREETECH-TouchScreenFirmware](https://github.com/thob97/CNC-BIGTREETECH-TouchScreenFirmware.git)
+* [MarlinCNC](https://github.com/thob97/MarlinCNC.git)
+* [submodule-mpcnc_post_processor](https://github.com/thob97/submodule-mpcnc_post_processor.git)
+
+
 ## See also
+You may also be interested in the following projects:
+* [3D printed beamer](https://github.com/thob97/3d_printed_beamer.git)
+* [Custom 10 inch server rack](https://github.com/thob97/custom_10_inch_server_rack.git)
 
 ## Acknowledgments
 
